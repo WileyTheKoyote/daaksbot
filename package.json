@@ -1,15 +1,11 @@
 {
-  "name": "daaksbot",
-  "version": "1.0.0",
-  "description": "I am the property of Turnertech",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^11.2.1"
-  },
-  "devDependencies": {}
+	"name": "Discord-Bot-Maker-Bot",
+	"author": "Robert Borghese",
+	"main": "bot.js",
+	"version": "1.2.9",
+	"dependencies": {
+		"discord.js": "^11.2.0",
+		"fstorm": "^0.1.3",
+		"jimp": "^0.2.28"
+	}
 }
